@@ -1,0 +1,2 @@
+ping google.com
+echo %cd% && cd C:\\ && dir | findstr b
